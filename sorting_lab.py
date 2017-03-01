@@ -27,6 +27,6 @@ def selection_sort():
 
 selection_sort()
 
-def insertion_sort():
+
 
 
